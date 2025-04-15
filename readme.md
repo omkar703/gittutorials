@@ -43,3 +43,7 @@ git branch branch-name
 # so for switch the branch we can use
 
 git checkout newly-created-branch
+
+# meage two branch
+
+git mearge otherbranch-name
